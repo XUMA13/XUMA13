@@ -1,10 +1,10 @@
 # 💫About Me :
-👋 Hi, I’m @XUMA13.
-👀 I’m interested in SWE, Machine learning and AI.
-🌱 I’m currently learning MERN stack, ML and AI.
-💞️ I’m looking to collaborate on different projects.
-📫 How to reach me: zymaspreeha@gmail.com.
-⚡ Fun fact: I love to cook and travel.
+👋 Hi, I’m @XUMA13 <br>
+👀 I’m interested in SWE, Machine learning and AI<br>
+🌱 I’m currently learning MERN stack, ML and AI<br>
+💞️ I’m looking to collaborate on different projects<br>
+📫 How to reach me: zymaspreeha@gmail.com<br>
+⚡ Fun fact: I love to cook and travel<br>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/zyma.spreeha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/zareen_spreeha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zyma-zareen-haque-622733213/) 
